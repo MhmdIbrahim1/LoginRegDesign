@@ -81,8 +81,8 @@
 
 
     <color name="color_button_address">#97AABD</color>
-
-
+    <color name="textBoardColor">#C67A89A4</color>
+    <color name="cyanText">#0888C1</color>
 
 
 </resources>
