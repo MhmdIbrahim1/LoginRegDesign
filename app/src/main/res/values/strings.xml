@@ -166,5 +166,10 @@
     <string name="password">Password</string>
     <string name="user_login_social">user login social</string>
     <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="fristname">FristName</string>
+    <string name="lastname">LastName</string>
+    <string name="registration">Registration</string>
+    <string name="register">register</string>
 
 </resources>
