@@ -210,6 +210,7 @@
         android:layout_width="167dp"
         android:layout_height="121dp"
         app:layout_constraintEnd_toStartOf="@+id/guideline_v2"
+        app:layout_constraintHorizontal_bias="0.975"
         app:layout_constraintStart_toStartOf="@+id/guideline_v1"
         app:layout_constraintTop_toBottomOf="@+id/backArrow"
         tools:srcCompat="@drawable/a12c5866d9eca5b2fff2cf6cfe3ccf59" />
